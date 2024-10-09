@@ -22,11 +22,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=5eFatimah&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=5eFatimah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
